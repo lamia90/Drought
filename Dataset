@@ -1,0 +1,4 @@
+This project data set is collected from  kaggle 
+https://www.kaggle.com/cdminix/us-drought-meteorological-data
+This project uses train_timeseries.csv under train_timeseries folder.
+randomly the the csv file was divided into train and test dataset.
